@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roshni Rani</h1>
 <h3 align="center">I'm a Final-year BCA student with a strong foundation in full-stack web development and proficiency in programming languages like C++, Java, and JavaScript. Passionate about creating innovative solutions and eager to apply my skills in real-world projects.</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/13/ae/59/13ae593c39163baf0bc2a393c6f4f705.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshnirani&label=Profile%20views&color=0e75b6&style=flat" alt="roshnirani" /> </p>
 
 - 🔭 I’m currently working on **ReactJS project focused on responsive web application**
